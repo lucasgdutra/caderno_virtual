@@ -36,7 +36,7 @@ and open the template in the editor.
                 <a href="geografia_trimestre1.php">Geografia</a>
                 <a>Gestão</a>
                 <a href="historia_trimestre1.php">História</a>
-                <a>Inglês</a>
+                <a href="ingles_trimestre1.php">Inglês</a>
                 <a href="matematica_trimestre1.php">Matematica</a>
                 <a href="portugues_trimestre1.php">Português</a>
                 <a href="ti_trimestre1.php">Projetos em TI</a>
